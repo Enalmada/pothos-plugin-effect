@@ -1,11 +1,11 @@
 {
-  "name": "pothos-plugin-effect",
+  "name": "@enalmada/pothos-plugin-effect",
   "description": "Seamless integration between the Pothos GraphQL and Effect.",
   "publishConfig": {
     "access": "public",
     "registiry": "https://registry.npmjs.org"
   },
-  "version": "0.8.0",
+  "version": "0.8.1-pull28.1",
   "files": [
     "package.json",
     "README.md",
